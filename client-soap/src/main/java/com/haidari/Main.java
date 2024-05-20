@@ -1,4 +1,4 @@
-package com.errami;
+package com.haidari;
 
 import proxy.BanqueService;
 import proxy.BanqueWs;
